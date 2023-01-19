@@ -2,9 +2,7 @@
 from url import urls
 from path import csv_paths
 
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
 
 # Getting specific html tags and identifiers
