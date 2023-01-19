@@ -1,0 +1,123 @@
+Pokedex Number,Name,Type,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed,Base Total
+019,Rattata Alolan Rattata,Dark Normal,30,56,35,25,35,72,253
+020,Raticate Alolan Raticate,Dark Normal,75,71,70,40,80,77,413
+025,Pikachu Partner Pikachu,Electric ,45,80,50,75,60,120,430
+026,Raichu Alolan Raichu,Electric Psychic,60,85,50,95,85,110,485
+027,Sandshrew Alolan Sandshrew,Ice Steel,50,75,90,10,35,40,300
+028,Sandslash Alolan Sandslash,Ice Steel,75,100,120,25,65,65,450
+037,Vulpix Alolan Vulpix,Ice ,38,41,40,50,65,65,299
+038,Ninetales Alolan Ninetales,Ice Fairy,73,67,75,81,100,109,505
+050,Diglett Alolan Diglett,Ground Steel,10,55,30,35,45,90,265
+051,Dugtrio Alolan Dugtrio,Ground Steel,35,100,60,50,70,110,425
+052,Meowth Alolan Meowth,Dark ,40,35,35,50,40,90,290
+053,Persian Alolan Persian,Dark ,65,60,60,75,65,115,440
+074,Geodude Alolan Geodude,Rock Electric,40,80,100,30,30,20,300
+075,Graveler Alolan Graveler,Rock Electric,55,95,115,45,45,35,390
+076,Golem Alolan Golem,Rock Electric,80,120,130,55,65,45,495
+088,Grimer Alolan Grimer,Poison Dark,80,80,50,40,50,25,325
+089,Muk Alolan Muk,Poison Dark,105,105,75,65,100,50,500
+103,Exeggutor Alolan Exeggutor,Grass Dragon,95,105,85,125,75,45,530
+105,Marowak Alolan Marowak,Fire Ghost,60,80,110,50,80,45,425
+133,Eevee Partner Eevee,Normal ,65,75,70,65,85,75,435
+658,Greninja Ash-Greninja,Water Dark,72,145,67,153,71,132,640
+718,Zygarde 10% Forme,Dragon Ground,54,100,71,61,85,115,486
+718,Zygarde Complete Forme,Dragon Ground,216,100,121,91,95,85,708
+722,Rowlet,Grass Flying,68,55,55,50,50,42,320
+723,Dartrix,Grass Flying,78,75,75,70,70,52,420
+724,Decidueye,Grass Ghost,78,107,75,100,100,70,530
+725,Litten,Fire ,45,65,40,60,40,70,320
+726,Torracat,Fire ,65,85,50,80,50,90,420
+727,Incineroar,Fire Dark,95,115,90,80,90,60,530
+728,Popplio,Water ,50,54,54,66,56,40,320
+729,Brionne,Water ,60,69,69,91,81,50,420
+730,Primarina,Water Fairy,80,74,74,126,116,60,530
+731,Pikipek,Normal Flying,35,75,30,30,30,65,265
+732,Trumbeak,Normal Flying,55,85,50,40,50,75,355
+733,Toucannon,Normal Flying,80,120,75,75,75,60,485
+734,Yungoos,Normal ,48,70,30,30,30,45,253
+735,Gumshoos,Normal ,88,110,60,55,60,45,418
+736,Grubbin,Bug ,47,62,45,55,45,46,300
+737,Charjabug,Bug Electric,57,82,95,55,75,36,400
+738,Vikavolt,Bug Electric,77,70,90,145,75,43,500
+739,Crabrawler,Fighting ,47,82,57,42,47,63,338
+740,Crabominable,Fighting Ice,97,132,77,62,67,43,478
+741,Oricorio Baile Style,Fire Flying,75,70,70,98,70,93,476
+741,Oricorio Pom-Pom Style,Electric Flying,75,70,70,98,70,93,476
+741,Oricorio Pa'u Style,Psychic Flying,75,70,70,98,70,93,476
+741,Oricorio Sensu Style,Ghost Flying,75,70,70,98,70,93,476
+742,Cutiefly,Bug Fairy,40,45,40,55,40,84,304
+743,Ribombee,Bug Fairy,60,55,60,95,70,124,464
+744,Rockruff,Rock ,45,65,40,30,40,60,280
+744,Rockruff Own Tempo Rockruff,Rock ,45,65,40,30,40,60,280
+745,Lycanroc Midday Form,Rock ,75,115,65,55,65,112,487
+745,Lycanroc Midnight Form,Rock ,85,115,75,55,75,82,487
+745,Lycanroc Dusk Form,Rock ,75,117,65,55,65,110,487
+746,Wishiwashi Solo Form,Water ,45,20,20,25,25,40,175
+746,Wishiwashi School Form,Water ,45,140,130,140,135,30,620
+747,Mareanie,Poison Water,50,53,62,43,52,45,305
+748,Toxapex,Poison Water,50,63,152,53,142,35,495
+749,Mudbray,Ground ,70,100,70,45,55,45,385
+750,Mudsdale,Ground ,100,125,100,55,85,35,500
+751,Dewpider,Water Bug,38,40,52,40,72,27,269
+752,Araquanid,Water Bug,68,70,92,50,132,42,454
+753,Fomantis,Grass ,40,55,35,50,35,35,250
+754,Lurantis,Grass ,70,105,90,80,90,45,480
+755,Morelull,Grass Fairy,40,35,55,65,75,15,285
+756,Shiinotic,Grass Fairy,60,45,80,90,100,30,405
+757,Salandit,Poison Fire,48,44,40,71,40,77,320
+758,Salazzle,Poison Fire,68,64,60,111,60,117,480
+759,Stufful,Normal Fighting,70,75,50,45,50,50,340
+760,Bewear,Normal Fighting,120,125,80,55,60,60,500
+761,Bounsweet,Grass ,42,30,38,30,38,32,210
+762,Steenee,Grass ,52,40,48,40,48,62,290
+763,Tsareena,Grass ,72,120,98,50,98,72,510
+764,Comfey,Fairy ,51,52,90,82,110,100,485
+765,Oranguru,Normal Psychic,90,60,80,90,110,60,490
+766,Passimian,Fighting ,100,120,90,40,60,80,490
+767,Wimpod,Bug Water,25,35,40,20,30,80,230
+768,Golisopod,Bug Water,75,125,140,60,90,40,530
+769,Sandygast,Ghost Ground,55,55,80,70,45,15,320
+770,Palossand,Ghost Ground,85,75,110,100,75,35,480
+771,Pyukumuku,Water ,55,60,130,30,130,5,410
+772,Type: Null,Normal ,95,95,95,95,95,59,534
+773,Silvally,Normal ,95,95,95,95,95,95,570
+774,Minior Meteor Form,Rock Flying,60,60,100,60,100,60,440
+774,Minior Core Form,Rock Flying,60,100,60,100,60,120,500
+775,Komala,Normal ,65,115,65,75,95,65,480
+776,Turtonator,Fire Dragon,60,78,135,91,85,36,485
+777,Togedemaru,Electric Steel,65,98,63,40,73,96,435
+778,Mimikyu,Ghost Fairy,55,90,80,50,105,96,476
+779,Bruxish,Water Psychic,68,105,70,70,70,92,475
+780,Drampa,Normal Dragon,78,60,85,135,91,36,485
+781,Dhelmise,Ghost Grass,70,131,100,86,90,40,517
+782,Jangmo-o,Dragon ,45,55,65,45,45,45,300
+783,Hakamo-o,Dragon Fighting,55,75,90,65,70,65,420
+784,Kommo-o,Dragon Fighting,75,110,125,100,105,85,600
+785,Tapu Koko,Electric Fairy,70,115,85,95,75,130,570
+786,Tapu Lele,Psychic Fairy,70,85,75,130,115,95,570
+787,Tapu Bulu,Grass Fairy,70,130,115,85,95,75,570
+788,Tapu Fini,Water Fairy,70,75,115,95,130,85,570
+789,Cosmog,Psychic ,43,29,31,29,31,37,200
+790,Cosmoem,Psychic ,43,29,131,29,131,37,400
+791,Solgaleo,Psychic Steel,137,137,107,113,89,97,680
+792,Lunala,Psychic Ghost,137,113,89,137,107,97,680
+793,Nihilego,Rock Poison,109,53,47,127,131,103,570
+794,Buzzwole,Bug Fighting,107,139,139,53,53,79,570
+795,Pheromosa,Bug Fighting,71,137,37,137,37,151,570
+796,Xurkitree,Electric ,83,89,71,173,71,83,570
+797,Celesteela,Steel Flying,97,101,103,107,101,61,570
+798,Kartana,Grass Steel,59,181,131,59,31,109,570
+799,Guzzlord,Dark Dragon,223,101,53,97,53,43,570
+800,Necrozma,Psychic ,97,107,101,127,89,79,600
+800,Necrozma Dusk Mane Necrozma,Psychic Steel,97,157,127,113,109,77,680
+800,Necrozma Dawn Wings Necrozma,Psychic Ghost,97,113,109,157,127,77,680
+800,Necrozma Ultra Necrozma,Psychic Dragon,97,167,97,167,97,129,754
+801,Magearna,Steel Fairy,80,95,115,130,115,65,600
+802,Marshadow,Fighting Ghost,90,125,80,90,90,125,600
+803,Poipole,Poison ,67,73,67,73,67,73,420
+804,Naganadel,Poison Dragon,73,73,73,127,73,121,540
+805,Stakataka,Rock Steel,61,131,211,53,101,13,570
+806,Blacephalon,Fire Ghost,53,127,53,151,79,107,570
+807,Zeraora,Electric ,88,112,75,102,80,143,600
+808,Meltan,Steel ,46,65,65,55,35,34,300
+809,Melmetal,Steel ,135,143,143,80,65,34,600

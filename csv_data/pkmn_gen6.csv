@@ -1,0 +1,132 @@
+Pokedex Number,Name,Type,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed,Base Total
+003,Venusaur Mega Venusaur,Grass Poison,80,100,123,122,120,80,625
+006,Charizard Mega Charizard X,Fire Dragon,78,130,111,130,85,100,634
+006,Charizard Mega Charizard Y,Fire Flying,78,104,78,159,115,100,634
+009,Blastoise Mega Blastoise,Water ,79,103,120,135,115,78,630
+015,Beedrill Mega Beedrill,Bug Poison,65,150,40,15,80,145,495
+018,Pidgeot Mega Pidgeot,Normal Flying,83,80,80,135,80,121,579
+065,Alakazam Mega Alakazam,Psychic ,55,50,65,175,105,150,600
+080,Slowbro Mega Slowbro,Water Psychic,95,75,180,130,80,30,590
+094,Gengar Mega Gengar,Ghost Poison,60,65,80,170,95,130,600
+115,Kangaskhan Mega Kangaskhan,Normal ,105,125,100,60,100,100,590
+127,Pinsir Mega Pinsir,Bug Flying,65,155,120,65,90,105,600
+130,Gyarados Mega Gyarados,Water Dark,95,155,109,70,130,81,640
+142,Aerodactyl Mega Aerodactyl,Rock Flying,80,135,85,70,95,150,615
+150,Mewtwo Mega Mewtwo X,Psychic Fighting,106,190,100,154,100,130,780
+150,Mewtwo Mega Mewtwo Y,Psychic ,106,150,70,194,120,140,780
+181,Ampharos Mega Ampharos,Electric Dragon,90,95,105,165,110,45,610
+208,Steelix Mega Steelix,Steel Ground,75,125,230,55,95,30,610
+212,Scizor Mega Scizor,Bug Steel,70,150,140,65,100,75,600
+214,Heracross Mega Heracross,Bug Fighting,80,185,115,40,105,75,600
+229,Houndoom Mega Houndoom,Dark Fire,75,90,90,140,90,115,600
+248,Tyranitar Mega Tyranitar,Rock Dark,100,164,150,95,120,71,700
+254,Sceptile Mega Sceptile,Grass Dragon,70,110,75,145,85,145,630
+257,Blaziken Mega Blaziken,Fire Fighting,80,160,80,130,80,100,630
+260,Swampert Mega Swampert,Water Ground,100,150,110,95,110,70,635
+282,Gardevoir Mega Gardevoir,Psychic Fairy,68,85,65,165,135,100,618
+302,Sableye Mega Sableye,Dark Ghost,50,85,125,85,115,20,480
+303,Mawile Mega Mawile,Steel Fairy,50,105,125,55,95,50,480
+306,Aggron Mega Aggron,Steel ,70,140,230,60,80,50,630
+308,Medicham Mega Medicham,Fighting Psychic,60,100,85,80,85,100,510
+310,Manectric Mega Manectric,Electric ,70,75,80,135,80,135,575
+319,Sharpedo Mega Sharpedo,Water Dark,70,140,70,110,65,105,560
+323,Camerupt Mega Camerupt,Fire Ground,70,120,100,145,105,20,560
+334,Altaria Mega Altaria,Dragon Fairy,75,110,110,110,105,80,590
+354,Banette Mega Banette,Ghost ,64,165,75,93,83,75,555
+359,Absol Mega Absol,Dark ,65,150,60,115,60,115,565
+362,Glalie Mega Glalie,Ice ,80,120,80,120,80,100,580
+373,Salamence Mega Salamence,Dragon Flying,95,145,130,120,90,120,700
+376,Metagross Mega Metagross,Steel Psychic,80,145,150,105,110,110,700
+380,Latias Mega Latias,Dragon Psychic,80,100,120,140,150,110,700
+381,Latios Mega Latios,Dragon Psychic,80,130,100,160,120,110,700
+382,Kyogre Primal Kyogre,Water ,100,150,90,180,160,90,770
+383,Groudon Primal Groudon,Ground Fire,100,180,160,150,90,90,770
+384,Rayquaza Mega Rayquaza,Dragon Flying,105,180,100,180,100,115,780
+428,Lopunny Mega Lopunny,Normal Fighting,65,136,94,54,96,135,580
+445,Garchomp Mega Garchomp,Dragon Ground,108,170,115,120,95,92,700
+448,Lucario Mega Lucario,Fighting Steel,70,145,88,140,70,112,625
+460,Abomasnow Mega Abomasnow,Grass Ice,90,132,105,132,105,30,594
+475,Gallade Mega Gallade,Psychic Fighting,68,165,95,65,115,110,618
+531,Audino Mega Audino,Normal Fairy,103,60,126,80,126,50,545
+650,Chespin,Grass ,56,61,65,48,45,38,313
+651,Quilladin,Grass ,61,78,95,56,58,57,405
+652,Chesnaught,Grass Fighting,88,107,122,74,75,64,530
+653,Fennekin,Fire ,40,45,40,62,60,60,307
+654,Braixen,Fire ,59,59,58,90,70,73,409
+655,Delphox,Fire Psychic,75,69,72,114,100,104,534
+656,Froakie,Water ,41,56,40,62,44,71,314
+657,Frogadier,Water ,54,63,52,83,56,97,405
+658,Greninja,Water Dark,72,95,67,103,71,122,530
+659,Bunnelby,Normal ,38,36,38,32,36,57,237
+660,Diggersby,Normal Ground,85,56,77,50,77,78,423
+661,Fletchling,Normal Flying,45,50,43,40,38,62,278
+662,Fletchinder,Fire Flying,62,73,55,56,52,84,382
+663,Talonflame,Fire Flying,78,81,71,74,69,126,499
+664,Scatterbug,Bug ,38,35,40,27,25,35,200
+665,Spewpa,Bug ,45,22,60,27,30,29,213
+666,Vivillon,Bug Flying,80,52,50,90,50,89,411
+667,Litleo,Fire Normal,62,50,58,73,54,72,369
+668,Pyroar,Fire Normal,86,68,72,109,66,106,507
+669,Flabébé,Fairy ,44,38,39,61,79,42,303
+670,Floette,Fairy ,54,45,47,75,98,52,371
+671,Florges,Fairy ,78,65,68,112,154,75,552
+672,Skiddo,Grass ,66,65,48,62,57,52,350
+673,Gogoat,Grass ,123,100,62,97,81,68,531
+674,Pancham,Fighting ,67,82,62,46,48,43,348
+675,Pangoro,Fighting Dark,95,124,78,69,71,58,495
+676,Furfrou,Normal ,75,80,60,65,90,102,472
+677,Espurr,Psychic ,62,48,54,63,60,68,355
+678,Meowstic Male,Psychic ,74,48,76,83,81,104,466
+678,Meowstic Female,Psychic ,74,48,76,83,81,104,466
+679,Honedge,Steel Ghost,45,80,100,35,37,28,325
+680,Doublade,Steel Ghost,59,110,150,45,49,35,448
+681,Aegislash Shield Forme,Steel Ghost,60,50,140,50,140,60,500
+681,Aegislash Blade Forme,Steel Ghost,60,140,50,140,50,60,500
+682,Spritzee,Fairy ,78,52,60,63,65,23,341
+683,Aromatisse,Fairy ,101,72,72,99,89,29,462
+684,Swirlix,Fairy ,62,48,66,59,57,49,341
+685,Slurpuff,Fairy ,82,80,86,85,75,72,480
+686,Inkay,Dark Psychic,53,54,53,37,46,45,288
+687,Malamar,Dark Psychic,86,92,88,68,75,73,482
+688,Binacle,Rock Water,42,52,67,39,56,50,306
+689,Barbaracle,Rock Water,72,105,115,54,86,68,500
+690,Skrelp,Poison Water,50,60,60,60,60,30,320
+691,Dragalge,Poison Dragon,65,75,90,97,123,44,494
+692,Clauncher,Water ,50,53,62,58,63,44,330
+693,Clawitzer,Water ,71,73,88,120,89,59,500
+694,Helioptile,Electric Normal,44,38,33,61,43,70,289
+695,Heliolisk,Electric Normal,62,55,52,109,94,109,481
+696,Tyrunt,Rock Dragon,58,89,77,45,45,48,362
+697,Tyrantrum,Rock Dragon,82,121,119,69,59,71,521
+698,Amaura,Rock Ice,77,59,50,67,63,46,362
+699,Aurorus,Rock Ice,123,77,72,99,92,58,521
+700,Sylveon,Fairy ,95,65,65,110,130,60,525
+701,Hawlucha,Fighting Flying,78,92,75,74,63,118,500
+702,Dedenne,Electric Fairy,67,58,57,81,67,101,431
+703,Carbink,Rock Fairy,50,50,150,50,150,50,500
+704,Goomy,Dragon ,45,50,35,55,75,40,300
+705,Sliggoo,Dragon ,68,75,53,83,113,60,452
+706,Goodra,Dragon ,90,100,70,110,150,80,600
+707,Klefki,Steel Fairy,57,80,91,80,87,75,470
+708,Phantump,Ghost Grass,43,70,48,50,60,38,309
+709,Trevenant,Ghost Grass,85,110,76,65,82,56,474
+710,Pumpkaboo Average Size,Ghost Grass,49,66,70,44,55,51,335
+710,Pumpkaboo Small Size,Ghost Grass,44,66,70,44,55,56,335
+710,Pumpkaboo Large Size,Ghost Grass,54,66,70,44,55,46,335
+710,Pumpkaboo Super Size,Ghost Grass,59,66,70,44,55,41,335
+711,Gourgeist Average Size,Ghost Grass,65,90,122,58,75,84,494
+711,Gourgeist Small Size,Ghost Grass,55,85,122,58,75,99,494
+711,Gourgeist Large Size,Ghost Grass,75,95,122,58,75,69,494
+711,Gourgeist Super Size,Ghost Grass,85,100,122,58,75,54,494
+712,Bergmite,Ice ,55,69,85,32,35,28,304
+713,Avalugg,Ice ,95,117,184,44,46,28,514
+714,Noibat,Flying Dragon,40,30,35,45,40,55,245
+715,Noivern,Flying Dragon,85,70,80,97,80,123,535
+716,Xerneas,Fairy ,126,131,95,131,98,99,680
+717,Yveltal,Dark Flying,126,131,95,131,98,99,680
+718,Zygarde 50% Forme,Dragon Ground,108,100,121,81,95,95,600
+719,Diancie,Rock Fairy,50,100,150,100,150,50,600
+719,Diancie Mega Diancie,Rock Fairy,50,160,110,160,110,110,700
+720,Hoopa Hoopa Confined,Psychic Ghost,80,110,60,150,130,70,600
+720,Hoopa Hoopa Unbound,Psychic Dark,80,160,60,170,130,80,680
+721,Volcanion,Fire Water,80,110,120,130,90,70,600

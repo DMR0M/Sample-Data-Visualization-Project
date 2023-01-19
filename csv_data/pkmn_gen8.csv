@@ -1,0 +1,148 @@
+Pokedex Number,Name,Type,Hp,Attack,Defense,Sp. Attack,Sp. Defense,Speed,Base Total
+052,Meowth Galarian Meowth,Steel ,50,65,55,40,40,40,290
+058,Growlithe Hisuian Growlithe,Fire Rock,60,75,45,65,50,55,350
+059,Arcanine Hisuian Arcanine,Fire Rock,95,115,80,95,80,90,555
+077,Ponyta Galarian Ponyta,Psychic ,50,85,55,65,65,90,410
+078,Rapidash Galarian Rapidash,Psychic Fairy,65,100,70,80,80,105,500
+079,Slowpoke Galarian Slowpoke,Psychic ,90,65,65,40,40,15,315
+080,Slowbro Galarian Slowbro,Poison Psychic,95,100,95,100,70,30,490
+083,Farfetch'd Galarian Farfetch'd,Fighting ,52,95,55,58,62,55,377
+100,Voltorb Hisuian Voltorb,Electric Grass,40,30,50,55,55,100,330
+101,Electrode Hisuian Electrode,Electric Grass,60,50,70,80,80,150,490
+110,Weezing Galarian Weezing,Poison Fairy,65,90,120,85,70,60,490
+122,Mr. Mime Galarian Mr. Mime,Ice Psychic,50,65,65,90,90,100,460
+144,Articuno Galarian Articuno,Psychic Flying,90,85,85,125,100,95,580
+145,Zapdos Galarian Zapdos,Fighting Flying,90,125,90,85,90,100,580
+146,Moltres Galarian Moltres,Dark Flying,90,85,90,100,125,90,580
+157,Typhlosion Hisuian Typhlosion,Fire Ghost,73,84,78,119,85,95,534
+199,Slowking Galarian Slowking,Poison Psychic,95,65,80,110,110,30,490
+211,Qwilfish Hisuian Qwilfish,Dark Poison,65,95,85,55,55,85,440
+215,Sneasel Hisuian Sneasel,Fighting Poison,55,95,55,35,75,115,430
+222,Corsola Galarian Corsola,Ghost ,60,55,100,65,100,30,410
+263,Zigzagoon Galarian Zigzagoon,Dark Normal,38,30,41,30,41,60,240
+264,Linoone Galarian Linoone,Dark Normal,78,70,61,50,61,100,420
+483,Dialga Origin Forme,Steel Dragon,100,100,120,150,120,90,680
+484,Palkia Origin Forme,Water Dragon,90,100,100,150,120,120,680
+503,Samurott Hisuian Samurott,Water Dark,90,108,80,100,65,85,528
+549,Lilligant Hisuian Lilligant,Grass Fighting,70,105,75,50,75,105,480
+550,Basculin White-Striped Form,Water ,70,92,65,80,55,98,460
+554,Darumaka Galarian Darumaka,Ice ,70,90,45,15,45,50,315
+555,Darmanitan Galarian Standard Mode,Ice ,105,140,55,30,55,95,480
+555,Darmanitan Galarian Zen Mode,Ice Fire,105,160,55,30,55,135,540
+562,Yamask Galarian Yamask,Ground Ghost,38,55,85,30,65,30,303
+570,Zorua Hisuian Zorua,Normal Ghost,35,60,40,85,40,70,330
+571,Zoroark Hisuian Zoroark,Normal Ghost,60,105,60,120,60,105,510
+618,Stunfisk Galarian Stunfisk,Ground Steel,109,81,99,66,84,32,471
+628,Braviary Hisuian Braviary,Psychic Flying,110,83,70,112,70,65,510
+705,Sliggoo Hisuian Sliggoo,Steel Dragon,58,75,83,83,113,40,452
+706,Goodra Hisuian Goodra,Steel Dragon,80,100,100,110,150,60,600
+713,Avalugg Hisuian Avalugg,Ice Rock,95,127,184,34,36,38,514
+724,Decidueye Hisuian Decidueye,Grass Fighting,88,112,80,95,95,60,530
+810,Grookey,Grass ,50,65,50,40,40,65,310
+811,Thwackey,Grass ,70,85,70,55,60,80,420
+812,Rillaboom,Grass ,100,125,90,60,70,85,530
+813,Scorbunny,Fire ,50,71,40,40,40,69,310
+814,Raboot,Fire ,65,86,60,55,60,94,420
+815,Cinderace,Fire ,80,116,75,65,75,119,530
+816,Sobble,Water ,50,40,40,70,40,70,310
+817,Drizzile,Water ,65,60,55,95,55,90,420
+818,Inteleon,Water ,70,85,65,125,65,120,530
+819,Skwovet,Normal ,70,55,55,35,35,25,275
+820,Greedent,Normal ,120,95,95,55,75,20,460
+821,Rookidee,Flying ,38,47,35,33,35,57,245
+822,Corvisquire,Flying ,68,67,55,43,55,77,365
+823,Corviknight,Flying Steel,98,87,105,53,85,67,495
+824,Blipbug,Bug ,25,20,20,25,45,45,180
+825,Dottler,Bug Psychic,50,35,80,50,90,30,335
+826,Orbeetle,Bug Psychic,60,45,110,80,120,90,505
+827,Nickit,Dark ,40,28,28,47,52,50,245
+828,Thievul,Dark ,70,58,58,87,92,90,455
+829,Gossifleur,Grass ,40,40,60,40,60,10,250
+830,Eldegoss,Grass ,60,50,90,80,120,60,460
+831,Wooloo,Normal ,42,40,55,40,45,48,270
+832,Dubwool,Normal ,72,80,100,60,90,88,490
+833,Chewtle,Water ,50,64,50,38,38,44,284
+834,Drednaw,Water Rock,90,115,90,48,68,74,485
+835,Yamper,Electric ,59,45,50,40,50,26,270
+836,Boltund,Electric ,69,90,60,90,60,121,490
+837,Rolycoly,Rock ,30,40,50,40,50,30,240
+838,Carkol,Rock Fire,80,60,90,60,70,50,410
+839,Coalossal,Rock Fire,110,80,120,80,90,30,510
+840,Applin,Grass Dragon,40,40,80,40,40,20,260
+841,Flapple,Grass Dragon,70,110,80,95,60,70,485
+842,Appletun,Grass Dragon,110,85,80,100,80,30,485
+843,Silicobra,Ground ,52,57,75,35,50,46,315
+844,Sandaconda,Ground ,72,107,125,65,70,71,510
+845,Cramorant,Flying Water,70,85,55,85,95,85,475
+846,Arrokuda,Water ,41,63,40,40,30,66,280
+847,Barraskewda,Water ,61,123,60,60,50,136,490
+848,Toxel,Electric Poison,40,38,35,54,35,40,242
+849,Toxtricity Amped Form,Electric Poison,75,98,70,114,70,75,502
+849,Toxtricity Low Key Form,Electric Poison,75,98,70,114,70,75,502
+850,Sizzlipede,Fire Bug,50,65,45,50,50,45,305
+851,Centiskorch,Fire Bug,100,115,65,90,90,65,525
+852,Clobbopus,Fighting ,50,68,60,50,50,32,310
+853,Grapploct,Fighting ,80,118,90,70,80,42,480
+854,Sinistea,Ghost ,40,45,45,74,54,50,308
+855,Polteageist,Ghost ,60,65,65,134,114,70,508
+856,Hatenna,Psychic ,42,30,45,56,53,39,265
+857,Hattrem,Psychic ,57,40,65,86,73,49,370
+858,Hatterene,Psychic Fairy,57,90,95,136,103,29,510
+859,Impidimp,Dark Fairy,45,45,30,55,40,50,265
+860,Morgrem,Dark Fairy,65,60,45,75,55,70,370
+861,Grimmsnarl,Dark Fairy,95,120,65,95,75,60,510
+862,Obstagoon,Dark Normal,93,90,101,60,81,95,520
+863,Perrserker,Steel ,70,110,100,50,60,50,440
+864,Cursola,Ghost ,60,95,50,145,130,30,510
+865,Sirfetch'd,Fighting ,62,135,95,68,82,65,507
+866,Mr. Rime,Ice Psychic,80,85,75,110,100,70,520
+867,Runerigus,Ground Ghost,58,95,145,50,105,30,483
+868,Milcery,Fairy ,45,40,40,50,61,34,270
+869,Alcremie,Fairy ,65,60,75,110,121,64,495
+870,Falinks,Fighting ,65,100,100,70,60,75,470
+871,Pincurchin,Electric ,48,101,95,91,85,15,435
+872,Snom,Ice Bug,30,25,35,45,30,20,185
+873,Frosmoth,Ice Bug,70,65,60,125,90,65,475
+874,Stonjourner,Rock ,100,125,135,20,20,70,470
+875,Eiscue Ice Face,Ice ,75,80,110,65,90,50,470
+875,Eiscue Noice Face,Ice ,75,80,70,65,50,130,470
+876,Indeedee Male,Psychic Normal,60,65,55,105,95,95,475
+876,Indeedee Female,Psychic Normal,70,55,65,95,105,85,475
+877,Morpeko Full Belly Mode,Electric Dark,58,95,58,70,58,97,436
+877,Morpeko Hangry Mode,Electric Dark,58,95,58,70,58,97,436
+878,Cufant,Steel ,72,80,49,40,49,40,330
+879,Copperajah,Steel ,122,130,69,80,69,30,500
+880,Dracozolt,Electric Dragon,90,100,90,80,70,75,505
+881,Arctozolt,Electric Ice,90,100,90,90,80,55,505
+882,Dracovish,Water Dragon,90,90,100,70,80,75,505
+883,Arctovish,Water Ice,90,90,100,80,90,55,505
+884,Duraludon,Steel Dragon,70,95,115,120,50,85,535
+885,Dreepy,Dragon Ghost,28,60,30,40,30,82,270
+886,Drakloak,Dragon Ghost,68,80,50,60,50,102,410
+887,Dragapult,Dragon Ghost,88,120,75,100,75,142,600
+888,Zacian Hero of Many Battles,Fairy ,92,120,115,80,115,138,660
+888,Zacian Crowned Sword,Fairy Steel,92,150,115,80,115,148,700
+889,Zamazenta Hero of Many Battles,Fighting ,92,120,115,80,115,138,660
+889,Zamazenta Crowned Shield,Fighting Steel,92,120,140,80,140,128,700
+890,Eternatus,Poison Dragon,140,85,95,145,95,130,690
+890,Eternatus Eternamax,Poison Dragon,255,115,250,125,250,130,1125
+891,Kubfu,Fighting ,60,90,60,53,50,72,385
+892,Urshifu Single Strike Style,Fighting Dark,100,130,100,63,60,97,550
+892,Urshifu Rapid Strike Style,Fighting Water,100,130,100,63,60,97,550
+893,Zarude,Dark Grass,105,120,105,70,95,105,600
+894,Regieleki,Electric ,80,100,50,100,50,200,580
+895,Regidrago,Dragon ,200,100,50,100,50,80,580
+896,Glastrier,Ice ,100,145,130,65,110,30,580
+897,Spectrier,Ghost ,100,65,60,145,80,130,580
+898,Calyrex,Psychic Grass,100,80,80,80,80,80,500
+898,Calyrex Ice Rider,Psychic Ice,100,165,150,85,130,50,680
+898,Calyrex Shadow Rider,Psychic Ghost,100,85,80,165,100,150,680
+899,Wyrdeer,Normal Psychic,103,105,72,105,75,65,525
+900,Kleavor,Bug Rock,70,130,95,45,75,85,500
+901,Ursaluna,Ground Normal,130,140,105,45,80,50,550
+902,Basculegion Male,Water Ghost,120,112,65,80,75,78,530
+902,Basculegion Female,Water Ghost,120,92,65,100,75,78,530
+903,Sneasler,Poison Fighting,80,130,60,40,80,120,510
+904,Overqwil,Dark Poison,85,115,95,65,65,85,510
+905,Enamorus Incarnate Forme,Fairy Flying,74,115,70,135,80,106,580
+905,Enamorus Therian Forme,Fairy Flying,74,115,110,135,100,46,580
