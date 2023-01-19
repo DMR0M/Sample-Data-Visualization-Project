@@ -3,8 +3,8 @@ from chart_class import Charts
 
 csv_file_list: list = os.listdir('../csv_data')
 sp = Charts(csv_file_list)
-sp.combined_chart('Speed', 'Attack', bar_color_2='tomato')
-sp.show_chart('Hp', bar_color='springgreen')
+sp.combined_chart('Speed', 'Attack', 'Sp. Attack', bar_color_2='tomato')
+# sp.show_chart('Hp', bar_color='springgreen')
 # sp.show_chart('Attack', bar_color='red')
 # sp.show_chart('Defense', bar_color='gold')
 # sp.show_chart('Sp. Attack', bar_color='navy')

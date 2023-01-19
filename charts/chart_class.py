@@ -39,29 +39,34 @@ class Charts:
         plt.legend()
         plt.show()
 
-    def combined_chart(self, stat_key_1, stat_key_2, *,
+    def combined_chart(self, stat_key_1, stat_key_2, stat_key_3, *,
                        bar_color_1='orange', bar_color_2='darkorange',
-                       line_color='darkslategrey'):
+                       bar_color_3='royalblue', line_color='darkslategrey'):
         stats_1: list[int] = []
         stats_2: list[int] = []
+        stats_3: list[int] = []
         for file in self.csv_files:
             df = pd.read_csv(f'{self.rel_path}{file}')
             stat_sum_1 = df[stat_key_1].sum()
             stat_sum_2 = df[stat_key_2].sum()
+            stat_sum_3 = df[stat_key_3].sum()
             stats_1.append(stat_sum_1)
             stats_2.append(stat_sum_2)
+            stats_3.append(stat_sum_3)
 
         # Set window title for chart window
         fig = plt.figure('Pokemon Generations Stat Comparison')
         fig.set_figwidth(10)
         fig.set_figheight(5)
 
-        plt.title(f'All Pokemon Generations {stat_key_1} & {stat_key_2} Comparison')
+        plt.title(f'All Pokemon Generations {stat_key_1}, {stat_key_2}'
+                  f' &, {stat_key_3} Comparison')
 
         x_axis = np.arange(len(self.csv_files))
 
-        plt.bar(x_axis - 0.2, stats_1, 0.4, color=bar_color_1, label=stat_key_1)
-        plt.bar(x_axis + 0.2, stats_2, 0.4, color=bar_color_2, label=stat_key_2)
+        plt.bar(x_axis - 0.2, stats_1, 0.2, color=bar_color_1, label=stat_key_1)
+        plt.bar(x_axis, stats_2, 0.2, color=bar_color_2, label=stat_key_2)
+        plt.bar(x_axis + 0.2, stats_3, 0.2, color=bar_color_3, label=stat_key_3)
 
         plt.xticks(x_axis, self.gens)
         plt.grid(color='#95a5a6', linestyle='--', linewidth=2, axis='x', alpha=0)
