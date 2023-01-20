@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale="1.0">
+    <title>CSV Viewer</title>
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+    <style>
+        h1 {
+            font-family: 'Lucida Console', Monospace;
+            text-align: center;
+            font-size: 30px;
+        }
+        table {
+            border-collapse: collapse;
+            border-radius: 5px;
+            box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+            overflow: hidden;
+            font-family: 'Monaco', Monospace;
+            font-size: 16px;
+        }
+        
+        th {
+            background: #900D09;
+            color: #ffffff;
+            text-align: left;
+        }
+        th,
+        td {
+            padding: 20px 20px;
+        }
+        
+        tr:nth-child(even) {
+            background: #eeeeee;
+        }
+    </style>
+</head>
+<body>
+    <h1>Pokemon Table Viewer</h1>
+    <input type="file" id="csvFileInput" style="padding-bottom: 15px">
+    <table id="csvRoot"></table>
+
+    <script src="lib/papaparse.min.js"></script>
+    <script type="module" src="scripts/main.js"></script>
+</body>
+</html>
