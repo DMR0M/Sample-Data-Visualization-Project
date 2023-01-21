@@ -30,7 +30,7 @@ export default class {
         this.root.insertAdjacentHTML("afterbegin", `
             <thead class="thead-dark">
                 <tr class="data-row">
-                    ${ headerColumns.map(text => `<th>${text}</th>`).join("") }
+                    ${ headerColumns.map(text => `<th class="data-content">${text}</th>`).join("") }
                 </tr>
             </thead>
         `);
