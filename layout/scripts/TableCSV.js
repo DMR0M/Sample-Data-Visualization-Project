@@ -28,7 +28,7 @@ export default class {
      */
     setHeader(headerColumns) {
         this.root.insertAdjacentHTML("afterbegin", `
-            <thead>
+            <thead class="thead-dark">
                 <tr>
                     ${ headerColumns.map(text => `<th>${text}</th>`).join("") }
                 </tr>
@@ -42,7 +42,7 @@ export default class {
     setBody(data) {
         const rowsHtml = data.map(row => {
             return `<tr>
-                ${ row.map(text => `<td>${ text }</td>`).join("") }
+                ${ row.map(text => `<td class="data-content">${ text }</td>`).join("") }
             </tr>
             `;
         });

@@ -1,0 +1,1 @@
+sp.combined_chart('Speed', 'Attack', 'Sp. Attack', bar_color_2='tomato')
