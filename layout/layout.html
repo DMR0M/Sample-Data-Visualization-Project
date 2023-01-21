@@ -4,17 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale="1.0">
     <title>Pokemon Stats Viewer</title>
-    <link rel="shortcut icon" href="/assets/favicon.ico">
+    <link rel="shortcut icon" href="img_src/pokeball.png">
     <style>
         .header-title {
             font-family: 'Lucida Console', Monospace;
             text-align: center;
             font-size: 30px;
+            padding:0 16px 0 0;
+            background-image: url('img_src/pokeball.png') no-repeat right center;
         }
-        h1 {
+        img {
+            height: 50px;
+            width: 50px;
+            vertical-align: middle;
+            align-content: center;
+            margin-right: 15px;
+        }
+        span {
             font-family: 'Lucida Console', Monospace;
             text-align: center;
-            font-size: 30px;
+            font-size: 25px;
         }
         h3 {
             font-family: 'Lucida Console', Monospace;
@@ -23,15 +32,15 @@
         }
         .table {
             border-collapse: collapse;
-            border-radius: 5px;
-            box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+            border-radius: 10px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
             overflow: hidden;
             font-family: 'Verdana', Monospace;
             font-size: 16px;
             width: 100%;
         }
         .data-content {
-            padding: 10px 20px;
+            padding: 20px 30px;
         }
         .text-muted {
             font-family: 'Lucida Console', Monospace;
@@ -61,38 +70,11 @@
     </style>
 </head>
 <body>
-    <!-- <div class="container">
-        <nav class="navbar navbar-expand-md navbar-light">
-            <a href="#" class="navbar-brand">Bootstrap 5</a>
-            <button 
-                class="navbar-toggler"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#toggleMobileMenu"
-                aria-controls="toggleMobileMenu"
-                aria-expanded="false"
-                aria-label="Toggle navigation"
-                >
-                <span class="navbar-toggler-icon"></span>
-            </button>    
-            <div class="collapse navbar-collapse" id="toggleMobileMenu">
-                <ul class="navbar-nav text-center">
-                    <li>
-                        <a class="nav-link" href="#">Home</a>
-                    </li>
-                    <li>
-                        <a class="nav-link" href="#">Charts</a>
-                    </li>
-                    <li>
-                        <a class="nav-link" href="#">Table Viewer</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </div> -->
-    <h1 class="header-title">Pokemon Stats Viewer
-    <small class="text-muted">Select a csv file to view table</small>
-    </h1>
+    <div class="header-title">
+        <a href="#"><img src="img_src/pokeball.png"></a><span class="header-title">Pokemon Stats Viewer
+        <small class="text-muted">Select a csv file to view table</small>
+        </span>
+    </div>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
 
@@ -104,7 +86,7 @@
 
     <input type="file" id="csvFileInput" class="csvSelectorBtn" style="padding-bottom: 15px">
     <table id="csvRoot" class="table"></table>
-
+    
     <script src="lib/papaparse.min.js"></script>
     <script type="module" src="scripts/main.js"></script>
 </body>
