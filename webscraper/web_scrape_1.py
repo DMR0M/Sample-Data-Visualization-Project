@@ -45,7 +45,6 @@ pkmn_data: list[dict] = [{
              atk_cols, def_cols, spatk_cols, spdef_cols,
              speed, base_total_cols)
 ]
-#
 # Visual
 for i, ele in enumerate(pkmn_data, start=1):
     print(f'{i}: {ele}')
