@@ -1,3 +1,5 @@
+import csv
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
@@ -74,12 +76,22 @@ class Charts:
         plt.legend()
         plt.show()
 
+    @staticmethod
+    def sort_stat(stat: str, csv_file: str):
+        # with open(csv_file, 'r') as csv_f:
+        #     csv.DictReader()
+        pkmn_stat = pd.read_csv(csv_file, index_col=stat)
+        sort_by_stat = pkmn_stat.sort_values(stat, ascending=False)
+        return sort_by_stat.head(10)
+
 
 def main():
     csv_file_list: list = os.listdir('../csv_data')
     sp = Charts(csv_file_list)
-    print(sp)
+    # print(sp)
     # sp.show_chart('Speed')
+    sorted_stat_df = Charts.sort_stat('Speed', '../csv_data/pkmn_gen9.csv')
+    print(sorted_stat_df)
 
 
 if __name__ == '__main__':

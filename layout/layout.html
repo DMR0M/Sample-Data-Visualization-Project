@@ -49,9 +49,6 @@
             font-family: 'Lucida Console', Monospace;
             font-size: 16px;
         }
-        .container-lg{
-            width: 100%;
-        }
         th {
             background: #900D09;
             color: #ffffff;
@@ -68,7 +65,7 @@
     </style>
 </head>
 <body>
-    
+    <div class="container-lg">
         <div class="header-title">
             <a href="#"><img src="img_src/pokeball.png"></a><span class="header-title">Pokemon Stats Viewer
             <small class="text-muted">Select a csv file to view table</small>
@@ -90,12 +87,12 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 
         <input type="file" id="csvFileInput" class="csvSelectorBtn" style="padding-bottom: 15px">
-        <div class="container-lg">
+        <div>
             <table id="csvRoot" class="table"></table>
         </div>
         <script src="lib/papaparse.min.js"></script>
         <script type="module" src="scripts/main.js"></script>
-   
+    </div>
     <!-- TODO: Add Search Bar -->
     <!-- TODO: Add Table Filtering
                 Sort by: 
